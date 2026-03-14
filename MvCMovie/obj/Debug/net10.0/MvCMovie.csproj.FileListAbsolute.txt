@@ -21,7 +21,6 @@
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/scopedcss/bundle/MvCMovie.styles.css
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/scopedcss/projectbundle/MvCMovie.bundle.scp.css
-/Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/compressed/hc450u1cuw-{0}-lugek5hnai-lugek5hnai.gz
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/compressed/nnzol5lmzb-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/compressed/fl4qqq27wi-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/compressed/yzrghwchn7-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -364,3 +363,5 @@
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/MvCMovie.csproj.AssemblyReference.cache
 /Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvcMovie/obj/Debug/net10.0/MvCMovie.csproj.Up2Date
+/Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/MvCMovie.sourcelink.json
+/Users/jayjorgensen/Library/CloudStorage/OneDrive-Personal/School/2026.2 - Winter/cse325/CSE325-w02/MvCMovie/obj/Debug/net10.0/compressed/hc450u1cuw-{0}-606v3msmp3-606v3msmp3.gz

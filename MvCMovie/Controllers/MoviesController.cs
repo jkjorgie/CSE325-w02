@@ -21,7 +21,7 @@ namespace MvCMovie.Controllers
 
         // GET: Movies
         // GET: Movies
-        public async Task<IActionResult> Index(string movieGenre, string searchString)
+        public async Task<IActionResult> Index(string movieGenre, string searchString, int? fromYear)
         {
             if (_context.Movie == null)
             {
@@ -45,10 +45,16 @@ namespace MvCMovie.Controllers
                 movies = movies.Where(x => x.Genre == movieGenre);
             }
 
+            if (fromYear.HasValue)
+            {
+                movies = movies.Where(m => m.ReleaseDate.Year >= fromYear.Value);
+            }
+
             var movieGenreVM = new MovieGenreViewModel
             {
                 Genres = new SelectList(await genreQuery.Distinct().ToListAsync()),
-                Movies = await movies.ToListAsync()
+                Movies = await movies.ToListAsync(),
+                FromYear = fromYear
             };
 
             return View(movieGenreVM);

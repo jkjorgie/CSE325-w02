@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "PG",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "Batman Begins",
+                    ReleaseDate = DateTime.Parse("2005-6-15"),
+                    Genre = "Action",
+                    Rating = "PG-13",
+                    Price = 9.99M
+                },
+                new Movie
+                {
+                    Title = "The Dark Knight",
+                    ReleaseDate = DateTime.Parse("2008-7-18"),
+                    Genre = "Action",
+                    Rating = "PG-13",
+                    Price = 9.99M
+                },
+                new Movie
+                {
+                    Title = "The Dark Knight Rises",
+                    ReleaseDate = DateTime.Parse("2012-7-20"),
+                    Genre = "Action",
+                    Rating = "PG-13",
+                    Price = 9.99M
                 }
             );
             context.SaveChanges();
